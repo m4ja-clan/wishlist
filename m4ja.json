@@ -50,7 +50,7 @@
             "tags": []
         },
         {
-            "description": "Preferred god roll from our clan",
+            "description": "",
             "hash": 2499720827,
             "name": "Shiny",
             "plugs": [
@@ -97,9 +97,9 @@
             "tags": []
         },
         {
-            "description": "Preferred god roll",
+            "description": "",
             "hash": 3583275737,
-            "name": "",
+            "name": "Test",
             "plugs": [
                 [
                     4090651448
@@ -114,12 +114,14 @@
                     95528736
                 ]
             ],
-            "tags": []
+            "tags": [
+                "GodPVE"
+            ]
         },
         {
-            "description": "Good pve option",
+            "description": "",
             "hash": 3583275737,
-            "name": "",
+            "name": "Test1",
             "plugs": [
                 [
                     3250034553,
@@ -140,10 +142,12 @@
                     1870851715
                 ]
             ],
-            "tags": []
+            "tags": [
+                "PVE"
+            ]
         },
         {
-            "description": "Preferred god roll from our clan",
+            "description": "",
             "hash": 3211624072,
             "name": "",
             "plugs": [
@@ -166,7 +170,7 @@
             "tags": []
         },
         {
-            "description": "Other good pve options",
+            "description": "",
             "hash": 3211624072,
             "name": "",
             "plugs": [
@@ -191,7 +195,7 @@
             "tags": []
         },
         {
-            "description": "Preferred god roll from our clan",
+            "description": "",
             "hash": 1013434963,
             "name": "",
             "plugs": [
@@ -211,7 +215,7 @@
             "tags": []
         },
         {
-            "description": "Good pve options",
+            "description": "",
             "hash": 1013434963,
             "name": "",
             "plugs": [
@@ -238,7 +242,7 @@
             "tags": []
         },
         {
-            "description": "Preferred god roll from our clan",
+            "description": "",
             "hash": 205225492,
             "name": "",
             "plugs": [
@@ -258,7 +262,7 @@
             "tags": []
         },
         {
-            "description": "Good pve options",
+            "description": "",
             "hash": 205225492,
             "name": "",
             "plugs": [
@@ -283,7 +287,7 @@
             "tags": []
         },
         {
-            "description": "Preferred god roll from our clan",
+            "description": "",
             "hash": 1453235079,
             "name": "",
             "plugs": [
@@ -303,7 +307,7 @@
             "tags": []
         },
         {
-            "description": "Preferred god roll from our clan",
+            "description": "",
             "hash": 1453235079,
             "name": "",
             "plugs": [
@@ -328,7 +332,7 @@
             "tags": []
         },
         {
-            "description": "Good pve options",
+            "description": "",
             "hash": 1453235079,
             "name": "",
             "plugs": [],
